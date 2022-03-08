@@ -13,6 +13,7 @@ powershell_repository_deb:
   xenial: https://packages.microsoft.com/config/ubuntu/16.04/packages-microsoft-prod.deb
   bionic: https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb
   buster: https://packages.microsoft.com/config/debian/10/packages-microsoft-prod.deb
+  bullseye: https://packages.microsoft.com/config/debian/10/packages-microsoft-prod.deb
 # for RedHat family
 powershell_yum_repository:
   name: packages-microsoft-com-prod
